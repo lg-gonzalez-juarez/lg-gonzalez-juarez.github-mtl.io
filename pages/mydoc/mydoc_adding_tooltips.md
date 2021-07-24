@@ -483,7 +483,7 @@ y listo se ejecuta el programa sin tenerlo en tu pc
      addpath(genpath('C:\MATLAB\R2012a\toolbox\matpower4.1'))
 ```     
      
-### to set ubuntu: transforn toeps desde 104 desde otro pc 
+### to set ubuntu: transforn toeps desde 104 desde otro pc (HIL-LAB)
 
 ```cmd  
      [102]D:\lggj\code_dspace\20120222_CtrStatComBalanceado\caract 
