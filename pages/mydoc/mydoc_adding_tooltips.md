@@ -33,15 +33,21 @@ https://es.mathworks.com/help/matlab/matlab_env/add-folders-to-matlab-search-pat
 
 ### Curva de capabilidad
 
-`pc104\MTLB\src\capability`
+{% raw %}
+```html
+pc104\MTLB\src\capability
+```
+{% endraw %}
 
 
 ### Diseño del control del motor de dc
 
-`pc104\MTLB\src\Motors\DCmtr\mdl\3th_v2\rev5`
-
-
-`\pc104\MTLB\bin\MyComputePrg` es tiene 
+{% raw %}
+```html
+pc104\MTLB\src\Motors\DCmtr\mdl\3th_v2\rev5
+pc104\MTLB\bin\MyComputePrg
+```
+{% endraw %}
 
 ### Funciones a reutilizar en matlab
 
@@ -49,16 +55,34 @@ https://es.mathworks.com/help/matlab/matlab_env/add-folders-to-matlab-search-pat
  - modelado de las ecuaciones iniciales esta en `\pc104\MTLB\bin\MyComputePrg\AsynMach`
 
 ### Maquina sincrona
-`\pc104\MTLB\bin\MyComputePrg\MtrSincr`
+{% raw %}
+```html
+pc104\MTLB\bin\MyComputePrg\MtrSincr
+```
+{% endraw %}
 
 
-### Codigo bueno en `\pc104\MTLB\src`
+### Codigo bueno en ``
+{% raw %}
+```html
+pc104\MTLB\src
+```
+{% endraw %}
 
 ### Last update control
-`\pc104\MTLB\src\CTR`
+{% raw %}
+```html
+pc104\MTLB\src\CTR
+```
+{% endraw %}
+
 
 ### parte de modelado del motor
-`\pc104\MTLB\src\Motors`
+{% raw %}
+```html
+pc104\MTLB\src\Motors
+```
+{% endraw %}
 
 
 
