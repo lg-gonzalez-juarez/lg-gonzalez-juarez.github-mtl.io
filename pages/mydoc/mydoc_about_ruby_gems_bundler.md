@@ -59,13 +59,34 @@ dwr=(Tm-Te)/(2*d.H);
 ```
 
 
-
+###
 ## Parámetros de la máquina 
 
 `D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\StateStable`
 
 
 - D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\StateStable_ok2021
+
+
+
+### Inicialización de la máquina sincrona
+
+
+`D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\MySyncGnrt\model_ok_Junio2011`
+
+finalmente encontrado y operativo
+`D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\MySyncGnrt\model_ok_Junio2011_ok2021`
+
+
+### Diseño del sistema de control
+
+revisar estos archivos
+`D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\CheeMunOng`
+
+
+Este es el folder bueno que usamos para los italianos
+
+`D:\wk_matlab\uc3m\mt\pc104\MTLB\src\Motors\SYNgnrt\Kundur `
 
 
 {% include links.html %}
